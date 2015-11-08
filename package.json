@@ -1,7 +1,7 @@
 {
-  "name": "fixed-chunk-stream",
+  "name": "fixed-chunk-stream-alt",
   "version": "0.1.1",
-  "description": "A sample Node.js stream transformer that allows to specify the size of a data-event chunk (Buffer) for any stream",
+  "description": "An alternative Node.js stream transformer that allows to specify the size of a data-event chunk (Buffer) for any stream",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
