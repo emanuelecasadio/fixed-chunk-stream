@@ -1,6 +1,6 @@
 {
   "name": "fixed-chunk-stream",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A sample Node.js stream transformer that allows to specify the size of a data-event chunk (Buffer) for any stream",
   "main": "index.js",
   "scripts": {
